@@ -1,0 +1,6 @@
+{
+  "name": "Talent Management AI Platform",
+  "description": "An AI-powered platform for comprehensive talent management, including succession planning, leadership development, and workforce analytics, utilizing Gemini API for insights.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

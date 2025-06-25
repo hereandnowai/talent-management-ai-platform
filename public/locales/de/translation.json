@@ -1,0 +1,84 @@
+
+{
+  "loading": "Wird geladen...",
+  "header": {
+    "slogan": "{{slogan}}"
+  },
+  "sidebar": {
+    "navigation": {
+      "dashboard": "Dashboard",
+      "talentProfiles": "Talentprofile",
+      "successionPlanning": "Nachfolgeplanung",
+      "leadershipDevelopment": "Führungskräfteentwicklung",
+      "workforcePlanning": "Personalplanung"
+    },
+    "copyright": "&copy; {{year}} {{organizationShortName}}"
+  },
+  "footer": {
+    "slogan": "{{slogan}}",
+    "contact": "Kontakt",
+    "phone": "Telefon",
+    "developedBy": "Entwickelt von Arlin Robeiksha Britto [KI-Produktentwicklungsteam]",
+    "rights": "&copy; {{year}} {{organizationLongName}}. Alle Rechte vorbehalten."
+  },
+  "home": {
+    "hero": {
+      "title": "Entfesseln Sie das Potenzial Ihrer Organisation",
+      "subtitle": "KI-gestütztes Talentmanagement von {{organizationShortName}}",
+      "description": "Optimieren Sie Ihre Talentstrategie – von der Nachfolgeplanung bis zur Führungskräfteentwicklung – mit modernsten KI-Erkenntnissen von {{chatbotName}}. Treffen Sie fundierte Entscheidungen, um eine zukunftsfähige Belegschaft aufzubauen.",
+      "slogan": "\"{{slogan}}\"",
+      "exploreButton": "Dashboard erkunden"
+    },
+    "coreCapabilities": {
+      "title": "Kernkompetenzen",
+      "features": {
+        "insightsDashboard": {
+          "name": "KI-gestütztes Insights Dashboard",
+          "description": "Interaktive Visualisierungen für wichtige Talentkennzahlen. Dynamische Vorschläge für Teamumstrukturierungen und Führungs-Upgrades.",
+          "cta": "Dashboard anzeigen"
+        },
+        "talentProfile": {
+          "name": "Talentprofilverwaltung",
+          "description": "Verwalten Sie Mitarbeiterprofile, Fähigkeiten und Erfolge. Erhalten Sie KI-basierte Kompetenzlückenanalysen und personalisierte Karrierepfade.",
+          "cta": "Profile verwalten"
+        },
+        "successionPlanning": {
+          "name": "Nachfolgeplanung",
+          "description": "Identifizieren Sie Kandidaten mit hohem Potenzial und simulieren Sie Nachfolgeszenarien mithilfe von KI-Vorhersagemodellen.",
+          "cta": "Nachfolger planen"
+        },
+        "leadershipDevelopment": {
+          "name": "Führungskräfteentwicklung",
+          "description": "Empfehlen Sie Schulungsprogramme, verfolgen Sie das Wachstum, weisen Sie Mentoren zu und erstellen Sie Fortschrittsberichte für Führungsrollen.",
+          "cta": "Führungskräfte entwickeln"
+        },
+        "workforcePlanning": {
+          "name": "Personalplanung",
+          "description": "Prognostizieren Sie den Personalbedarf und stimmen Sie HR-Strategien mithilfe intelligenter Analysen auf die Geschäftsziele ab.",
+          "cta": "Personal planen"
+        },
+        "chatbot": {
+          "name": "Caramel AI Chatbot",
+          "description": "Ihr integrierter KI-Assistent, {{chatbotName}}, ist immer bereit, bei Fragen zu Talenten, Profilen und Trends zu helfen. Greifen Sie über das Chat-Symbol darauf zu!"
+        }
+      }
+    }
+  },
+  "dashboard": {
+    "title": "Talent Insights Dashboard - {{organizationShortName}}"
+  },
+  "languageSwitcher": {
+    "label": "Sprache",
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch"
+  },
+  "chatbotModal": {
+    "title": "{{chatbotName}}",
+    "inputPlaceholder": "Fragen Sie alles über Talente...",
+    "initialMessage": "Hallo! Ich bin {{chatbotName}}. Wie kann ich Ihnen heute bei Ihren Talentmanagement-Anforderungen bei {{organizationShortName}} helfen?",
+    "errorConnect": "Entschuldigung, ich konnte keine Verbindung zum KI-Dienst herstellen. Bitte versuchen Sie es später erneut.",
+    "errorAPIKey": "Der API-Schlüssel für Gemini ist nicht konfiguriert. Bitte kontaktieren Sie den Support."
+  }
+}

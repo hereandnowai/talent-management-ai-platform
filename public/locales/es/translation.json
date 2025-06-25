@@ -1,0 +1,84 @@
+
+{
+  "loading": "Cargando...",
+  "header": {
+    "slogan": "{{slogan}}"
+  },
+  "sidebar": {
+    "navigation": {
+      "dashboard": "Tablero",
+      "talentProfiles": "Perfiles de Talento",
+      "successionPlanning": "Planificación de Sucesión",
+      "leadershipDevelopment": "Desarrollo de Liderazgo",
+      "workforcePlanning": "Planificación de Personal"
+    },
+    "copyright": "&copy; {{year}} {{organizationShortName}}"
+  },
+  "footer": {
+    "slogan": "{{slogan}}",
+    "contact": "Contacto",
+    "phone": "Teléfono",
+    "developedBy": "Desarrollado por Arlin Robeiksha Britto [Equipo de Ingeniería de Productos de IA]",
+    "rights": "&copy; {{year}} {{organizationLongName}}. Todos los derechos reservados."
+  },
+  "home": {
+    "hero": {
+      "title": "Desbloquea el Potencial de tu Organización",
+      "subtitle": "Gestión de Talento Impulsada por IA por {{organizationShortName}}",
+      "description": "Optimiza tu estrategia de talento—desde la planificación de sucesión hasta el desarrollo de liderazgo—utilizando conocimientos de IA de vanguardia de {{chatbotName}}. Toma decisiones informadas para construir una fuerza laboral preparada para el futuro.",
+      "slogan": "\"{{slogan}}\"",
+      "exploreButton": "Explorar Tablero"
+    },
+    "coreCapabilities": {
+      "title": "Capacidades Clave",
+      "features": {
+        "insightsDashboard": {
+          "name": "Tablero de Perspectivas por IA",
+          "description": "Visualizaciones interactivas para métricas clave de talento. Sugerencias dinámicas para reestructuración de equipos y mejoras de liderazgo.",
+          "cta": "Ver Tablero"
+        },
+        "talentProfile": {
+          "name": "Gestión de Perfiles de Talento",
+          "description": "Gestiona perfiles de empleados, habilidades y logros. Obtén análisis de brechas de habilidades basados en IA y rutas de desarrollo personalizadas.",
+          "cta": "Gestionar Perfiles"
+        },
+        "successionPlanning": {
+          "name": "Planificación de Sucesión",
+          "description": "Identifica candidatos de alto potencial y simula escenarios de sucesión utilizando modelado predictivo de IA.",
+          "cta": "Planificar Sucesores"
+        },
+        "leadershipDevelopment": {
+          "name": "Desarrollo de Liderazgo",
+          "description": "Recomienda programas de capacitación, sigue el crecimiento, asigna mentores y genera informes de progreso para roles de liderazgo.",
+          "cta": "Desarrollar Líderes"
+        },
+        "workforcePlanning": {
+          "name": "Planificación de Personal",
+          "description": "Pronostica las necesidades de personal y alinea las estrategias de RR.HH. con los objetivos comerciales utilizando análisis inteligentes.",
+          "cta": "Planificar Personal"
+        },
+        "chatbot": {
+          "name": "Chatbot Caramel AI",
+          "description": "Tu asistente de IA integrado, {{chatbotName}}, siempre está listo para ayudar con consultas sobre talento, perfiles y tendencias. ¡Accede a él mediante el ícono de chat!"
+        }
+      }
+    }
+  },
+  "dashboard": {
+    "title": "Tablero de Perspectivas de Talento - {{organizationShortName}}"
+  },
+  "languageSwitcher": {
+    "label": "Idioma",
+    "en": "English",
+    "es": "Español",
+    "fr": "Francés",
+    "de": "Alemán"
+  },
+  "chatbotModal": {
+    "title": "{{chatbotName}}",
+    "inputPlaceholder": "Pregunta cualquier cosa sobre talento...",
+    "initialMessage": "¡Hola! Soy {{chatbotName}}. ¿Cómo puedo ayudarte con tus necesidades de gestión de talento hoy en {{organizationShortName}}?",
+    "errorConnect": "Lo siento, no pude conectarme al servicio de IA. Por favor, inténtalo de nuevo más tarde.",
+    "errorAPIKey": "La clave API para Gemini no está configurada. Por favor, contacta con el soporte."
+  }
+}

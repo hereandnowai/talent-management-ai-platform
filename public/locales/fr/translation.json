@@ -1,0 +1,84 @@
+
+{
+  "loading": "Chargement...",
+  "header": {
+    "slogan": "{{slogan}}"
+  },
+  "sidebar": {
+    "navigation": {
+      "dashboard": "Tableau de bord",
+      "talentProfiles": "Profils de talents",
+      "successionPlanning": "Planification de la relève",
+      "leadershipDevelopment": "Développement du leadership",
+      "workforcePlanning": "Planification des effectifs"
+    },
+    "copyright": "&copy; {{year}} {{organizationShortName}}"
+  },
+  "footer": {
+    "slogan": "{{slogan}}",
+    "contact": "Contact",
+    "phone": "Téléphone",
+    "developedBy": "Développé par Arlin Robeiksha Britto [Équipe d'ingénierie des produits IA]",
+    "rights": "&copy; {{year}} {{organizationLongName}}. Tous droits réservés."
+  },
+  "home": {
+    "hero": {
+      "title": "Libérez le potentiel de votre organisation",
+      "subtitle": "Gestion des talents basée sur l'IA par {{organizationShortName}}",
+      "description": "Optimisez votre stratégie de talents — de la planification de la relève au développement du leadership — en utilisant les informations de pointe de l'IA de {{chatbotName}}. Prenez des décisions éclairées pour bâtir une main-d'œuvre prête pour l'avenir.",
+      "slogan": "\"{{slogan}}\"",
+      "exploreButton": "Explorer le tableau de bord"
+    },
+    "coreCapabilities": {
+      "title": "Capacités principales",
+      "features": {
+        "insightsDashboard": {
+          "name": "Tableau de bord des informations IA",
+          "description": "Visualisations interactives des indicateurs clés de talents. Suggestions dynamiques pour la restructuration des équipes et les mises à niveau du leadership.",
+          "cta": "Voir le tableau de bord"
+        },
+        "talentProfile": {
+          "name": "Gestion des profils de talents",
+          "description": "Gérez les profils, les compétences et les réalisations des employés. Obtenez une analyse des écarts de compétences basée sur l'IA et des parcours de carrière personnalisés.",
+          "cta": "Gérer les profils"
+        },
+        "successionPlanning": {
+          "name": "Planification de la relève",
+          "description": "Identifiez les candidats à haut potentiel et simulez des scénarios de relève à l'aide de la modélisation prédictive de l'IA.",
+          "cta": "Planifier la relève"
+        },
+        "leadershipDevelopment": {
+          "name": "Développement du leadership",
+          "description": "Recommandez des formations, suivez la croissance, attribuez des mentors et générez des rapports de progression pour les rôles de leadership.",
+          "cta": "Développer les leaders"
+        },
+        "workforcePlanning": {
+          "name": "Planification des effectifs",
+          "description": "Prévoyez les besoins en effectifs et alignez les stratégies RH sur les objectifs commerciaux à l'aide d'analyses intelligentes.",
+          "cta": "Planifier les effectifs"
+        },
+        "chatbot": {
+          "name": "Chatbot Caramel AI",
+          "description": "Votre assistant IA intégré, {{chatbotName}}, est toujours prêt à vous aider avec vos requêtes sur les talents, les profils et les tendances. Accédez-y via l'icône de chat !"
+        }
+      }
+    }
+  },
+  "dashboard": {
+    "title": "Tableau de bord des informations sur les talents - {{organizationShortName}}"
+  },
+  "languageSwitcher": {
+    "label": "Langue",
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch"
+  },
+  "chatbotModal": {
+    "title": "{{chatbotName}}",
+    "inputPlaceholder": "Posez des questions sur les talents...",
+    "initialMessage": "Bonjour ! Je suis {{chatbotName}}. Comment puis-je vous aider aujourd'hui avec vos besoins en gestion des talents chez {{organizationShortName}} ?",
+    "errorConnect": "Désolé, je n'ai pas pu me connecter au service IA. Veuillez réessayer plus tard.",
+    "errorAPIKey": "La clé API pour Gemini n'est pas configurée. Veuillez contacter le support."
+  }
+}

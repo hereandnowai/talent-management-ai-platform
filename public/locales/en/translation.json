@@ -1,0 +1,84 @@
+
+{
+  "loading": "Loading...",
+  "header": {
+    "slogan": "{{slogan}}"
+  },
+  "sidebar": {
+    "navigation": {
+      "dashboard": "Dashboard",
+      "talentProfiles": "Talent Profiles",
+      "successionPlanning": "Succession Planning",
+      "leadershipDevelopment": "Leadership Development",
+      "workforcePlanning": "Workforce Planning"
+    },
+    "copyright": "&copy; {{year}} {{organizationShortName}}"
+  },
+  "footer": {
+    "slogan": "{{slogan}}",
+    "contact": "Contact",
+    "phone": "Phone",
+    "developedBy": "Developed by Arlin Robeiksha Britto [ AI Products Engineering Team]",
+    "rights": "&copy; {{year}} {{organizationLongName}}. All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "title": "Unlock Your Organization's Potential",
+      "subtitle": "AI-Driven Talent Management by {{organizationShortName}}",
+      "description": "Optimize your talent strategy—from succession planning to leadership development—using cutting-edge AI insights from {{chatbotName}}. Make informed decisions to build a future-ready workforce.",
+      "slogan": "\"{{slogan}}\"",
+      "exploreButton": "Explore Dashboard"
+    },
+    "coreCapabilities": {
+      "title": "Core Capabilities",
+      "features": {
+        "insightsDashboard": {
+          "name": "AI-Driven Insights Dashboard",
+          "description": "Interactive visualizations for key talent metrics. Dynamic suggestions for team restructuring and leadership upgrades.",
+          "cta": "View Dashboard"
+        },
+        "talentProfile": {
+          "name": "Talent Profile Management",
+          "description": "Manage employee profiles, skills, and achievements. Get AI-based skill gap analysis and personalized career paths.",
+          "cta": "Manage Profiles"
+        },
+        "successionPlanning": {
+          "name": "Succession Planning",
+          "description": "Identify high-potential candidates and simulate succession scenarios using AI predictive modeling.",
+          "cta": "Plan Successors"
+        },
+        "leadershipDevelopment": {
+          "name": "Leadership Development",
+          "description": "Recommend training, track growth, assign mentors, and generate progress reports for leadership roles.",
+          "cta": "Develop Leaders"
+        },
+        "workforcePlanning": {
+          "name": "Workforce Planning",
+          "description": "Forecast workforce needs and align HR strategies with business goals using smart analytics.",
+          "cta": "Plan Workforce"
+        },
+        "chatbot": {
+          "name": "Caramel AI Chatbot",
+          "description": "Your integrated AI assistant, {{chatbotName}}, is always ready to help with queries on talent, profiles, and trends. Access it via the chat icon!"
+        }
+      }
+    }
+  },
+  "dashboard": {
+    "title": "Talent Insights Dashboard - {{organizationShortName}}"
+  },
+  "languageSwitcher": {
+    "label": "Language",
+    "en": "English",
+    "es": "Español",
+    "fr": "French",
+    "de": "German"
+  },
+  "chatbotModal": {
+    "title": "{{chatbotName}}",
+    "inputPlaceholder": "Ask anything about talent...",
+    "initialMessage": "Hello! I'm {{chatbotName}}. How can I help you with your talent management needs today at {{organizationShortName}}?",
+    "errorConnect": "Sorry, I couldn't connect to the AI service. Please try again later.",
+    "errorAPIKey": "API Key for Gemini is not configured. Please contact support."
+  }
+}
